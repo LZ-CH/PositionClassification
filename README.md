@@ -36,4 +36,3 @@ python test.py
 2) cd PositionClassification
 ```
 python train.py 
-``
