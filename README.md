@@ -24,7 +24,7 @@ The following shows the basic folder structure.
 │   ├── final_weight.pth #  A pre-trained snapshot (final_weight.pth)
 ```
 ### Test: 
-1) Download the pre-trained snapshot.
+1) Download the pre-trained snapshot.<a href="https://pan.baidu.com/s/1MNGYunvonFvSpZJLGCu19Q">baidu cloud [password: 1234]</a>
 2) Prepare the test data.<a href="https://pan.baidu.com/s/1gfiTziz4RCRHImRrG-EIPw">baidu cloud [password: 1234]</a>
 3) cd PositionClassification.
 ```
