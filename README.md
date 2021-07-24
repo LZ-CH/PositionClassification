@@ -5,8 +5,9 @@
 2. Pytorch 1.7.1
 3. numpy 1.20.2
 4. opencv
-5. torchvision 0.8.2
-6. cuda101
+5. matplotlib
+6. torchvision 0.8.2
+7. cuda101
 
 ### Folder structure
 Download the PositionClassification first.
