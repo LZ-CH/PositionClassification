@@ -13,7 +13,7 @@
 ### Folder structure
 Download the PositionClassification first.(下载整个项目源程序)
 
-The following shows the basic folder structure.(项目文件夹应按以下放置)
+The following shows the basic folder structure.(项目文件夹应按以下结构放置)
 ```
 
 ├── data
