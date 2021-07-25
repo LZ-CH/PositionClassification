@@ -150,7 +150,7 @@ yzl
 2. Pytorch 1.7.1
 3. numpy 1.20.2
 4. opencv
-5、cuda11.0
+5. cuda11.0
 
 
 ### Folder structure
