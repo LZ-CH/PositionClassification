@@ -82,7 +82,7 @@ by 张靖宜19351171
 
 ## 三、human_bps_classification项目部分:
 
-by聂云双
+by 聂云双
 ### Requirements
 所需环境配置
 1. Python 3.8 
