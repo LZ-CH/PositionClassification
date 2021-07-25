@@ -140,9 +140,9 @@ yzl
 即可得到测试准确率。
 预训练模型下载链接```https://pan.baidu.com/s/1FqBvf6KzVU9y3e7t_LH5Hg```, 提取码```gx82```。
 
-## yzb项目
+## yzb项目部分
 
-杨振邦19351162
+by 杨振邦19351162
 
 ### Requirements
 所需环境配置
