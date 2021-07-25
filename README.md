@@ -139,3 +139,34 @@ yzl
 ```acc = evaluate(model_path='./model/best.ckpt', data_path='./data/test/')```，
 即可得到测试准确率。
 预训练模型下载链接```https://pan.baidu.com/s/1FqBvf6KzVU9y3e7t_LH5Hg```, 提取码```gx82```。
+
+## yzb项目
+
+杨振邦19351162
+
+### Requirements
+所需环境配置
+1. Python 3.8 
+2. Pytorch 1.7.1
+3. numpy 1.20.2
+4. opencv
+5、cuda11.0
+
+
+### Folder structure
+Download the PositionClassification first.(下载整个项目源程序)
+
+The following shows the basic folder structure.(项目文件夹应按以下结构放置)
+```
+yzb
+├── data
+│   ├── test
+│   └── train
+├── LSTM.py # 模型训练
+├── test.py # 读取并展示模型效果
+├── LSTM_0_30_68_4t.pth
+├── LSTM_03_30_68_4.pth
+├── LSTM_07_30_68_4.pth
+├── LSTM_0_30_34_2t.pth
+├── LSTM_03_30_34_2.pth
+├── LSTM_07_30_34_2.pth
