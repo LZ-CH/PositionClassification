@@ -1,7 +1,7 @@
 # PositionClassification
 人体姿态序列分类任务大作业
 
-此项目包含小组五个成员共5个子项目(对应文件夹分别为ljz,GCN-NAS,human_bps_classification,yzl)，每一个子项目均可独立完成此次的人体姿态序列分类任务
+此项目包含小组五个成员共5个子项目(对应文件夹分别为ljz,GCN-NAS,human_bps_classification,yzl,yzb)，每一个子项目均可独立完成此次的人体姿态序列分类任务
 ## 一、ljz项目部分:
 
 by 罗经周19351098
