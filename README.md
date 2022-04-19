@@ -4,7 +4,7 @@
 此项目包含小组五个成员共5个子项目(对应文件夹分别为ljz,GCN-NAS,human_bps_classification,yzl,yzb)，每一个子项目均可独立完成此次的人体姿态序列分类任务
 ## 一、ljz项目部分:
 
-by 罗经周19351098
+by 小组成员1
 
 包含:使用ResNet18与LSTM完成此分类任务的所有源程序(默认使用ResNet18，若需检验此部分的LSTM效果,只需将train.py的第57行代码与test.py的第46行代码取消注释)
 
@@ -53,7 +53,7 @@ python train.py
 ```
 ## 二、GCN-NAS项目部分:
 
-by 张靖宜19351171
+by 小组成员2
 ### Requirements
 - python packages
   - pytorch = 0.4.1
@@ -82,7 +82,7 @@ by 张靖宜19351171
 
 ## 三、human_bps_classification项目部分:
 
-by 聂云双
+by 小组成员3
 ### Requirements
 所需环境配置
 1. Python 3.8 
@@ -112,7 +112,7 @@ Run main.py
 
 ## 四、yzl项目部分
 
-by 叶泽林19351163
+by 小组成员4
 ### 环境
 * python 3.7
 * tensorflow 1.15
@@ -148,7 +148,7 @@ acc = evaluate(model_path='./model/best.ckpt', data_path='./data/test/')
 
 ## 五、yzb项目部分
 
-by 杨振邦19351162
+by 小组成员5
 
 ### Requirements
 所需环境配置
